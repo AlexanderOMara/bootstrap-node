@@ -1,0 +1,16 @@
+{
+	"libs": [
+		"browser"
+	],
+	"loadEagerly": [
+	],
+	"dontLoad": [
+	],
+	"plugins": {
+		"node": {},
+		"complete_strings": {},
+		"doc_comment": {
+			"fullDocs": true
+		}
+	}
+}
